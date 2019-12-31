@@ -1,4 +1,2 @@
-This is to incorporate merge conflict
+This is file2.txt in master branch
 
-Hi i am from master branch
-This is to get work done
