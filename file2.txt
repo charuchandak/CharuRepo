@@ -1,2 +1,4 @@
+This is to incorporate merge conflict
+
 Hi i am from master branch
 This is to get work done
